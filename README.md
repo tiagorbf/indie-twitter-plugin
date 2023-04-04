@@ -17,4 +17,3 @@ First thing I did was removing that terrible Doge logo...
 
 Fixing bugs, adding new stores or features. Everything is welcome.
 Just create PR and let's fix twitter!!
-# indie-twitter-plugin
